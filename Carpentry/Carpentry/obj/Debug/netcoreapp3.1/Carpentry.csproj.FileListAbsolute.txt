@@ -1,0 +1,13 @@
+C:\Users\Joel\Desktop\ArquiSoft\Carpentry\Carpentry\bin\Debug\netcoreapp3.1\Carpentry.exe
+C:\Users\Joel\Desktop\ArquiSoft\Carpentry\Carpentry\bin\Debug\netcoreapp3.1\Carpentry.deps.json
+C:\Users\Joel\Desktop\ArquiSoft\Carpentry\Carpentry\bin\Debug\netcoreapp3.1\Carpentry.runtimeconfig.json
+C:\Users\Joel\Desktop\ArquiSoft\Carpentry\Carpentry\bin\Debug\netcoreapp3.1\Carpentry.runtimeconfig.dev.json
+C:\Users\Joel\Desktop\ArquiSoft\Carpentry\Carpentry\bin\Debug\netcoreapp3.1\Carpentry.dll
+C:\Users\Joel\Desktop\ArquiSoft\Carpentry\Carpentry\bin\Debug\netcoreapp3.1\Carpentry.pdb
+C:\Users\Joel\Desktop\ArquiSoft\Carpentry\Carpentry\obj\Debug\netcoreapp3.1\Carpentry.csprojAssemblyReference.cache
+C:\Users\Joel\Desktop\ArquiSoft\Carpentry\Carpentry\obj\Debug\netcoreapp3.1\Carpentry.AssemblyInfoInputs.cache
+C:\Users\Joel\Desktop\ArquiSoft\Carpentry\Carpentry\obj\Debug\netcoreapp3.1\Carpentry.AssemblyInfo.cs
+C:\Users\Joel\Desktop\ArquiSoft\Carpentry\Carpentry\obj\Debug\netcoreapp3.1\Carpentry.csproj.CoreCompileInputs.cache
+C:\Users\Joel\Desktop\ArquiSoft\Carpentry\Carpentry\obj\Debug\netcoreapp3.1\Carpentry.dll
+C:\Users\Joel\Desktop\ArquiSoft\Carpentry\Carpentry\obj\Debug\netcoreapp3.1\Carpentry.pdb
+C:\Users\Joel\Desktop\ArquiSoft\Carpentry\Carpentry\obj\Debug\netcoreapp3.1\Carpentry.genruntimeconfig.cache
